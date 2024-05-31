@@ -1,7 +1,7 @@
 # Cosy-Cuisine_final_version
 a fully functional e-commerce site with 3 interfaces for user, admin, restaurant manager and the ability to contact the support team via email
 Registration/Login
-
+Technology used HTML,CSS,PHPMAILER, JAVA SCRIPT, PHP  
 Users can create a new account or log in to an existing account to access all the platform's functionalities.
 Search Restaurants
 
