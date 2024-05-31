@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+</head>
+<body>
+    <h1>Contact</h1>
+    
+    <p>Mulțumim pentru mesajul tau!Vom trimite un răspuns în cel mai scurt timp.</p>
+ <p><a href="index.php">Mergi inapoi la  Cosy Cuisine</a></p>
+  <p><a href="form.html">Mergi înapoi la form</a></p>
+    
+</body>
+</html>
